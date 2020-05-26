@@ -321,8 +321,7 @@ open class CDMarkdownLabel: UILabel {
             avoidSuperCall = true
         case .cancelled:
             self.selectedURLRange = nil
-        case .stationary:
-            break
+        default: break
         }
 
         return avoidSuperCall
