@@ -29,6 +29,6 @@ import PackageDescription
 
 let package = Package(
     name: "CDMarkdownKit",
-    dependencies : [],
+    dependencies: [],
     exclude: []
 )
