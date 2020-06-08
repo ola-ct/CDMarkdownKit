@@ -537,11 +537,11 @@
 			};
 			buildConfigurationList = B2B365B11F3245800078B962 /* Build configuration list for PBXProject "CDMarkdownKit" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = B2B365AD1F3245800078B962;
 			productRefGroup = B2B365B81F3245800078B962 /* Products */;
